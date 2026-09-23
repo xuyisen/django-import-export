@@ -17,3 +17,8 @@ dist/
 .vscode
 
 tests/database.db
+# Shell redirection artifacts
+=[0-9]*
+>[0-9]*
+*.tmp
+*.log
